@@ -35,8 +35,8 @@ pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn
    ```
 
 3. **Ejecutar el notebook**:
-   - Abrir el notebook `XGBoost_SHAP.ipynb` (o el nombre que tenga) en Jupyter Notebook o Jupyter Lab.
-   - Ejecutar las celdas de código en secuencia. El notebook está diseñado para cargar los datos, entrenar los modelos, y generar visualizaciones interpretativas usando SHAP.
+   - Abrir los archivos notebook en `notebooks/` en Jupyter Notebook o Jupyter Lab.
+   - Ejecutar las celdas de código en secuencia. Los notebooks estan diseñados para cargar los datos, entrenar los modelos, y generar visualizaciones interpretativas usando SHAP.
 
 ### Estructura del Proyecto
 
@@ -44,7 +44,7 @@ pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn
 - `notebooks/`: Tiene los notebooks que incluyen el análisis exploratorio, modelado, y visualizaciones SHAP.
   - `AE.ipynb`: Análisis exploratorio de los datos.
   - `RandomForest.ipynb`: Implementación del modelo Random Forest y análisis con SHAP.
-  - `XGBoost_SHAP.ipynb`: Implementación del modelo XGBoost y análisis con SHAP.
+  - `XGBoost.ipynb`: Implementación del modelo XGBoost y análisis con SHAP.
 
 ### Dataset
 
