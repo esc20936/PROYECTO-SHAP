@@ -25,8 +25,8 @@ pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn
 
 1. **Clonar este repositorio**: 
    ```bash
-   git clone https://github.com/<usuario>/<repositorio>.git
-   cd <repositorio>
+   git clone https://github.com/esc20936/PROYECTO-SHAP.git
+   cd PROYECTO-SHAP
    ```
 
 2. **Navegar al directorio de notebooks**:
